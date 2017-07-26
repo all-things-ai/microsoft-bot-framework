@@ -1,6 +1,6 @@
 {
   "name": "examples",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "description": "Examples for the Bot Builder framework.",
   "author": "Microsoft Corp.",
   "main": "index.js",
@@ -24,7 +24,7 @@
     "mocha": "^2.4.5"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "run": "node index.js"
   }
 }
 
